@@ -1,0 +1,27 @@
+{
+  "name": "boquecosa.sia",
+  "version": "1.0.0",
+  "description": "Classroom Activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleMiss10/activity_sia.git"
+  },
+  "keywords": [
+    "sia",
+    "activity",
+    "sy2526"
+  ],
+  "author": "Boquecosa,Jessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleMiss10/activity_sia/issues"
+  },
+  "homepage": "https://github.com/LittleMiss10/activity_sia#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
